@@ -73,7 +73,6 @@ date,temp_max_c,temp_min_c,precip_mm,wind_max_kmh,city,timezone
 2026-05-30,24.1,16.0,0.0,16.6,London,Europe/London
 2026-05-31,19.9,15.2,0.0,23.0,London,Europe/London
 2026-06-01,18.0,16.5,3.8,22.3,London,Europe/London
-2026-04-25,9.6,5.0,19.1,18.6,New York,America/New_York
 2026-04-26,14.7,5.1,5.9,18.3,New York,America/New_York
 2026-04-27,20.4,5.1,0.0,16.9,New York,America/New_York
 2026-04-28,18.4,6.8,0.0,14.1,New York,America/New_York
@@ -110,6 +109,7 @@ date,temp_max_c,temp_min_c,precip_mm,wind_max_kmh,city,timezone
 2026-05-29,24.1,14.2,0.0,26.8,New York,America/New_York
 2026-05-30,16.6,10.8,0.0,32.9,New York,America/New_York
 2026-05-31,24.1,10.6,0.0,18.6,New York,America/New_York
+2026-06-01,25.5,15.3,0.0,30.4,New York,America/New_York
 2026-04-26,23.1,12.6,0.0,14.8,Sydney,Australia/Sydney
 2026-04-27,22.9,11.2,0.0,11.8,Sydney,Australia/Sydney
 2026-04-28,22.8,12.3,0.0,12.3,Sydney,Australia/Sydney
