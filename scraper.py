@@ -90,12 +90,14 @@ def fetch_transport_canada_datasets(session: requests.Session, max_results: int 
     resp = session.get(api, params=params, timeout=30)
     resp.raise_for_status()
     payload = resp.json()
-    results = payload.get("result", {}).get("results", []) if isinstance(payload, dict) else []
+    results = payload.get("result", {}).get(
+        "results", []) if isinstance(payload, dict) else []
 
     now_iso = datetime.now(timezone.utc).isoformat()
     records: list[CarRecord] = []
     for item in results:
-        title = item.get("title") or item.get("name") or "Transport Canada dataset"
+        title = item.get("title") or item.get(
+            "name") or "Transport Canada dataset"
         listing_id = f"tc-{item.get('id', title)[:24]}"
         records.append(
             CarRecord(
@@ -160,7 +162,8 @@ def fetch_autotrader_listings_playwright(max_pages: int = 1) -> list[CarRecord]:
     try:
         from playwright.sync_api import sync_playwright
     except Exception as exc:
-        raise RuntimeError("Playwright is not available in this environment") from exc
+        raise RuntimeError(
+            "Playwright is not available in this environment") from exc
 
     records: list[CarRecord] = []
     now_iso = datetime.now(timezone.utc).isoformat()
@@ -190,21 +193,24 @@ def fetch_autotrader_listings_playwright(max_pages: int = 1) -> list[CarRecord]:
         for a in anchors[:50]:
             try:
                 href = a.get_attribute("href") or ""
-                source_url = page.url.rstrip("/") + href if href.startswith("/") else href
+                source_url = page.url.rstrip(
+                    "/") + href if href.startswith("/") else href
                 title = a.inner_text().strip()[:200]
 
                 # Price and location heuristics
                 price = None
                 loc = None
                 try:
-                    price_el = a.query_selector(".price") or a.query_selector("span[data-qa='price']")
+                    price_el = a.query_selector(
+                        ".price") or a.query_selector("span[data-qa='price']")
                     if price_el:
                         price = price_el.inner_text().strip()
                 except Exception:
                     price = None
 
                 try:
-                    loc_el = a.query_selector(".location") or a.query_selector("span[data-qa='sellerLocation']")
+                    loc_el = a.query_selector(".location") or a.query_selector(
+                        "span[data-qa='sellerLocation']")
                     if loc_el:
                         loc = loc_el.inner_text().strip()
                 except Exception:
