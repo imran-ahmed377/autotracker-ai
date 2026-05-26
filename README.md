@@ -32,6 +32,14 @@ pip install -r requirements.txt
 python scraper.py
 ```
 
+Note: This project can also scrape AutoTrader.ca which requires Playwright and browsers.
+Install Playwright and browsers locally with:
+
+```bash
+pip install playwright
+playwright install
+```
+
 ## Environment variables
 
 Optional runtime tuning:
