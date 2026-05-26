@@ -56,7 +56,7 @@ def build_session() -> requests.Session:
     session.mount("https://", adapter)
     session.mount("http://", adapter)
     session.headers.update(
-        {"User-Agent": "autotracker-ai-weather/1.0 (+github-actions)"})
+        {"User-Agent": "weathertracker-ai/1.0 (+github-actions)"})
     return session
 
 

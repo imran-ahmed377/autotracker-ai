@@ -1,4 +1,4 @@
-# autotracker-ai
+# weathertracker-ai
 
 Daily weather and environment tracker powered by the free Open-Meteo API.
 
