@@ -1,26 +1,22 @@
 # autotracker-ai
 
-A safe MVP that collects car-related reference data from the public NHTSA vPIC API and stores updates in Excel.
+Daily weather and environment tracker powered by the free Open-Meteo API.
 
 ## What this project does
 
-- Fetches car makes and models from NHTSA public endpoints.
-- Normalizes rows into a stable schema suitable for tracking.
-- Writes output to:
-  - `output/cars.xlsx`
-  - `output/cars.csv`
-- Runs daily via GitHub Actions and commits updated output files.
+- Pulls weather data from Open-Meteo (no API key required).
+- Tracks multiple global cities with:
+  - recent history (`past_days`)
+  - near-term forecast (`forecast_days`)
+  - current conditions
+- Generates climate trend charts per city.
+- Builds a static dashboard page and publishes it to GitHub Pages.
+- Commits generated CSV data back to the repository on scheduled runs.
 
-## Why some fields are empty
+## Data source
 
-This MVP uses a public/government API for legal and reliability safety.
-Marketplace-specific fields are included as optional columns and may be empty:
-
-- `price`
-- `location`
-- `mileage`
-- `transmission`
-- `fuel`
+- API: `https://api.open-meteo.com/v1/forecast`
+- Free access, no key required.
 
 ## Local run
 
@@ -29,43 +25,45 @@ python -m venv .venv
 # Windows PowerShell:
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-python scraper.py
-```
-
-Note: This project can also scrape AutoTrader.ca which requires Playwright and browsers.
-Install Playwright and browsers locally with:
-
-```bash
-pip install playwright
-playwright install
+python weather_dashboard.py
 ```
 
 ## Environment variables
 
-Optional runtime tuning:
+Optional tuning values:
 
-- `MAX_MAKES` (default: `15`)
-- `YEAR_COUNT` (default: `3`)
+- `PAST_DAYS` (default: `30`)
+- `FORECAST_DAYS` (default: `7`)
 
 Example:
 
 ```bash
-MAX_MAKES=10 YEAR_COUNT=2 python scraper.py
+PAST_DAYS=60 FORECAST_DAYS=10 python weather_dashboard.py
 ```
 
-## GitHub Actions schedule
+## Generated files
 
-Workflow file: `.github/workflows/scrape.yml`
+- Data:
+  - `output/weather_daily.csv`
+  - `output/weather_observations.csv`
+- Dashboard assets:
+  - `docs/index.html`
+  - `docs/charts/*.png`
+  - `docs/.nojekyll`
 
-Default cron:
+## GitHub Actions and Pages
+
+Workflow file: `.github/workflows/weather-dashboard.yml`
+
+Schedule:
 
 - `0 2 * * *` (daily at 02:00 UTC)
 
-You can also run manually from the Actions tab using `workflow_dispatch`.
+The workflow:
 
-## File outputs
+1. Runs `python weather_dashboard.py`
+2. Commits updated data/dashboard files
+3. Uploads `docs/` as a Pages artifact
+4. Deploys the dashboard to GitHub Pages
 
-- Main Excel file: `output/cars.xlsx`
-- Diff-friendly mirror: `output/cars.csv`
-
-Yes, updates are stored in the Excel file and committed back to your repository when data changes.
+You can also trigger runs manually from the Actions tab using `workflow_dispatch`.

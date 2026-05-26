@@ -1,0 +1,81 @@
+name: Weather Dashboard Pipeline
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-weather:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Build weather dataset and dashboard
+        env:
+          PAST_DAYS: "30"
+          FORECAST_DAYS: "7"
+        run: |
+          set -e
+          python weather_dashboard.py 2>&1 | tee workflow.log
+
+      - name: Commit generated files if changed
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add output/weather_daily.csv output/weather_observations.csv docs/index.html docs/charts docs/.nojekyll
+          git diff --staged --quiet && echo "No data changes to commit." && exit 0
+
+          git commit -m "Update weather dashboard data"
+          git push
+
+      - name: Upload logs and outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: weather-artifacts
+          path: |
+            workflow.log
+            output/weather_daily.csv
+            output/weather_observations.csv
+            docs/index.html
+            docs/charts
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy-pages:
+    needs: build-weather
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
