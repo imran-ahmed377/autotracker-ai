@@ -1,186 +1,297 @@
 date,temp_max_c,temp_min_c,precip_mm,wind_max_kmh,city,timezone
-2026-04-27,,,,,Delhi,Asia/Kolkata
-2026-04-28,,,,,Delhi,Asia/Kolkata
-2026-04-29,,,,,Delhi,Asia/Kolkata
-2026-04-30,,,,,Delhi,Asia/Kolkata
-2026-05-01,,,,,Delhi,Asia/Kolkata
-2026-05-02,,,,,Delhi,Asia/Kolkata
-2026-05-03,,,,,Delhi,Asia/Kolkata
-2026-05-04,,,,,Delhi,Asia/Kolkata
-2026-05-05,,,,,Delhi,Asia/Kolkata
-2026-05-06,,,,,Delhi,Asia/Kolkata
-2026-05-07,30.5,23.6,,19.2,Delhi,Asia/Kolkata
-2026-05-08,34.4,22.1,0.4,14.5,Delhi,Asia/Kolkata
-2026-05-09,35.5,24.8,0.0,11.9,Delhi,Asia/Kolkata
-2026-05-10,37.2,26.2,0.0,12.2,Delhi,Asia/Kolkata
-2026-05-11,37.7,27.3,0.0,10.0,Delhi,Asia/Kolkata
-2026-05-12,38.8,27.9,7.0,17.3,Delhi,Asia/Kolkata
-2026-05-13,39.0,26.7,0.3,11.7,Delhi,Asia/Kolkata
-2026-05-14,39.4,25.9,0.2,15.4,Delhi,Asia/Kolkata
-2026-05-15,40.0,28.5,0.0,16.8,Delhi,Asia/Kolkata
-2026-05-16,40.4,29.0,0.0,17.1,Delhi,Asia/Kolkata
-2026-05-17,41.2,29.9,0.1,21.5,Delhi,Asia/Kolkata
-2026-05-18,43.3,30.0,0.0,18.6,Delhi,Asia/Kolkata
-2026-05-19,44.4,31.1,0.0,16.1,Delhi,Asia/Kolkata
-2026-05-20,43.6,32.1,0.0,11.6,Delhi,Asia/Kolkata
-2026-05-21,42.8,33.2,0.0,18.8,Delhi,Asia/Kolkata
-2026-05-22,42.0,32.0,0.0,14.3,Delhi,Asia/Kolkata
-2026-05-23,41.2,31.6,0.0,18.1,Delhi,Asia/Kolkata
-2026-05-24,42.2,30.0,0.0,16.8,Delhi,Asia/Kolkata
-2026-05-25,43.0,32.8,0.0,16.5,Delhi,Asia/Kolkata
-2026-05-26,42.5,31.8,0.0,19.5,Delhi,Asia/Kolkata
-2026-05-27,42.5,31.0,0.0,14.7,Delhi,Asia/Kolkata
-2026-05-28,41.3,29.0,1.1,14.9,Delhi,Asia/Kolkata
-2026-05-29,33.8,24.7,1.8,19.0,Delhi,Asia/Kolkata
-2026-05-30,34.8,24.0,1.7,15.5,Delhi,Asia/Kolkata
-2026-05-31,36.2,23.4,0.0,5.6,Delhi,Asia/Kolkata
-2026-06-01,38.0,26.1,0.6,4.5,Delhi,Asia/Kolkata
-2026-06-02,38.2,27.6,0.0,6.4,Delhi,Asia/Kolkata
-2026-04-27,,,,,London,Europe/London
-2026-04-28,,,,,London,Europe/London
-2026-04-29,,,,,London,Europe/London
-2026-04-30,,,,,London,Europe/London
-2026-05-01,,,,,London,Europe/London
-2026-05-02,,,,,London,Europe/London
-2026-05-03,,,,,London,Europe/London
-2026-05-04,,,,,London,Europe/London
-2026-05-05,,,,,London,Europe/London
-2026-05-06,,,,,London,Europe/London
-2026-05-07,15.0,7.5,,12.3,London,Europe/London
-2026-05-08,18.5,8.3,0.0,10.8,London,Europe/London
-2026-05-09,21.0,9.4,0.0,14.8,London,Europe/London
-2026-05-10,13.6,8.6,0.3,19.9,London,Europe/London
-2026-05-11,11.9,4.7,0.7,14.9,London,Europe/London
-2026-05-12,15.4,4.2,0.1,16.8,London,Europe/London
-2026-05-13,12.9,8.4,6.1,24.5,London,Europe/London
-2026-05-14,11.8,6.1,4.0,14.5,London,Europe/London
-2026-05-15,14.4,5.9,0.8,13.4,London,Europe/London
-2026-05-16,14.9,5.9,1.5,15.1,London,Europe/London
-2026-05-17,16.5,8.9,1.6,16.2,London,Europe/London
-2026-05-18,15.0,7.7,3.0,18.5,London,Europe/London
-2026-05-19,17.8,11.1,4.1,24.4,London,Europe/London
-2026-05-20,19.2,11.8,1.0,22.1,London,Europe/London
-2026-05-21,23.2,11.0,0.0,15.3,London,Europe/London
-2026-05-22,26.8,15.8,0.0,16.6,London,Europe/London
-2026-05-23,29.7,20.3,0.0,10.8,London,Europe/London
-2026-05-24,31.2,16.6,0.0,15.5,London,Europe/London
-2026-05-25,33.9,19.8,0.0,14.4,London,Europe/London
-2026-05-26,34.6,21.3,0.0,13.7,London,Europe/London
-2026-05-27,27.2,17.4,0.0,20.2,London,Europe/London
-2026-05-28,31.4,16.5,0.2,18.0,London,Europe/London
-2026-05-29,25.1,16.9,0.0,11.9,London,Europe/London
-2026-05-30,25.6,17.0,0.0,15.8,London,Europe/London
-2026-05-31,20.6,16.2,0.0,19.1,London,Europe/London
-2026-06-01,20.7,14.0,1.6,20.5,London,Europe/London
-2026-06-02,19.7,13.5,8.75,15.5,London,Europe/London
-2026-04-26,,,,,New York,America/New_York
-2026-04-27,,,,,New York,America/New_York
-2026-04-28,,,,,New York,America/New_York
-2026-04-29,,,,,New York,America/New_York
-2026-04-30,,,,,New York,America/New_York
-2026-05-01,,,,,New York,America/New_York
-2026-05-02,,,,,New York,America/New_York
-2026-05-03,,,,,New York,America/New_York
-2026-05-04,,,,,New York,America/New_York
-2026-05-05,,,,,New York,America/New_York
-2026-05-06,,,,,New York,America/New_York
-2026-05-07,,,,,New York,America/New_York
-2026-05-08,,,,,New York,America/New_York
-2026-05-09,15.3,12.8,,18.3,New York,America/New_York
-2026-05-10,18.9,11.6,3.2,18.2,New York,America/New_York
-2026-05-11,16.8,12.1,0.3,22.1,New York,America/New_York
-2026-05-12,17.4,8.7,0.0,23.4,New York,America/New_York
-2026-05-13,22.1,12.5,0.1,32.7,New York,America/New_York
-2026-05-14,18.6,12.4,3.2,23.1,New York,America/New_York
-2026-05-15,18.9,9.6,0.0,22.0,New York,America/New_York
-2026-05-16,25.7,13.5,0.0,22.1,New York,America/New_York
-2026-05-17,27.9,17.6,0.0,19.8,New York,America/New_York
-2026-05-18,25.0,19.6,0.0,22.5,New York,America/New_York
-2026-05-19,32.3,20.7,0.0,25.7,New York,America/New_York
-2026-05-20,32.3,20.8,4.0,26.9,New York,America/New_York
-2026-05-21,19.9,14.5,2.1,18.7,New York,America/New_York
-2026-05-22,19.9,14.0,0.0,23.0,New York,America/New_York
-2026-05-23,13.6,9.6,9.8,17.9,New York,America/New_York
-2026-05-24,13.9,10.2,11.4,14.1,New York,America/New_York
-2026-05-25,23.3,12.8,0.7,14.3,New York,America/New_York
-2026-05-26,27.3,14.6,0.0,14.6,New York,America/New_York
-2026-05-27,30.3,17.6,0.0,18.6,New York,America/New_York
-2026-05-28,22.2,15.8,0.4,27.6,New York,America/New_York
-2026-05-29,24.1,13.7,0.2,27.4,New York,America/New_York
-2026-05-30,18.3,10.6,0.0,30.3,New York,America/New_York
-2026-05-31,22.2,12.2,0.0,17.3,New York,America/New_York
-2026-06-01,18.3,13.0,2.4,21.8,New York,America/New_York
-2026-04-27,,,,,Sydney,Australia/Sydney
-2026-04-28,,,,,Sydney,Australia/Sydney
-2026-04-29,,,,,Sydney,Australia/Sydney
-2026-04-30,,,,,Sydney,Australia/Sydney
-2026-05-01,,,,,Sydney,Australia/Sydney
-2026-05-02,,,,,Sydney,Australia/Sydney
-2026-05-03,,,,,Sydney,Australia/Sydney
-2026-05-04,,,,,Sydney,Australia/Sydney
-2026-05-05,,,,,Sydney,Australia/Sydney
-2026-05-06,,,,,Sydney,Australia/Sydney
-2026-05-07,17.0,10.6,,26.7,Sydney,Australia/Sydney
-2026-05-08,19.0,9.9,0.0,22.8,Sydney,Australia/Sydney
-2026-05-09,20.5,11.2,0.0,14.3,Sydney,Australia/Sydney
-2026-05-10,21.3,10.0,0.0,16.3,Sydney,Australia/Sydney
-2026-05-11,21.7,14.6,1.3,13.6,Sydney,Australia/Sydney
-2026-05-12,20.4,15.6,5.3,18.1,Sydney,Australia/Sydney
-2026-05-13,18.5,16.3,11.0,14.2,Sydney,Australia/Sydney
-2026-05-14,20.1,14.9,2.1,12.2,Sydney,Australia/Sydney
-2026-05-15,19.8,13.6,1.8,9.0,Sydney,Australia/Sydney
-2026-05-16,20.2,13.0,2.1,13.2,Sydney,Australia/Sydney
-2026-05-17,21.1,14.7,1.1,12.3,Sydney,Australia/Sydney
-2026-05-18,20.0,15.6,14.3,8.7,Sydney,Australia/Sydney
-2026-05-19,20.3,15.1,8.0,16.6,Sydney,Australia/Sydney
-2026-05-20,17.9,12.1,0.0,16.0,Sydney,Australia/Sydney
-2026-05-21,17.4,11.1,2.3,21.9,Sydney,Australia/Sydney
-2026-05-22,18.7,13.6,5.1,21.2,Sydney,Australia/Sydney
-2026-05-23,18.6,15.6,4.8,16.7,Sydney,Australia/Sydney
-2026-05-24,20.0,14.2,2.5,10.5,Sydney,Australia/Sydney
-2026-05-25,19.8,14.7,5.6,9.4,Sydney,Australia/Sydney
-2026-05-26,19.3,16.0,16.4,10.2,Sydney,Australia/Sydney
-2026-05-27,20.8,15.3,6.2,7.9,Sydney,Australia/Sydney
-2026-05-28,19.8,16.0,5.2,21.4,Sydney,Australia/Sydney
-2026-05-29,19.2,15.1,5.4,25.4,Sydney,Australia/Sydney
-2026-05-30,18.5,11.6,0.0,21.1,Sydney,Australia/Sydney
-2026-05-31,17.1,10.4,0.0,21.2,Sydney,Australia/Sydney
-2026-06-01,16.3,8.9,0.0,18.4,Sydney,Australia/Sydney
-2026-06-02,17.5,8.4,3.0,23.6,Sydney,Australia/Sydney
-2026-04-27,,,,,Tokyo,Asia/Tokyo
-2026-04-28,,,,,Tokyo,Asia/Tokyo
-2026-04-29,,,,,Tokyo,Asia/Tokyo
-2026-04-30,,,,,Tokyo,Asia/Tokyo
-2026-05-01,,,,,Tokyo,Asia/Tokyo
-2026-05-02,,,,,Tokyo,Asia/Tokyo
-2026-05-03,,,,,Tokyo,Asia/Tokyo
-2026-05-04,,,,,Tokyo,Asia/Tokyo
-2026-05-05,,,,,Tokyo,Asia/Tokyo
-2026-05-06,,,,,Tokyo,Asia/Tokyo
-2026-05-07,24.5,19.2,,16.0,Tokyo,Asia/Tokyo
-2026-05-08,25.8,17.5,0.0,14.9,Tokyo,Asia/Tokyo
-2026-05-09,23.9,16.1,0.0,22.8,Tokyo,Asia/Tokyo
-2026-05-10,24.4,14.1,0.0,17.9,Tokyo,Asia/Tokyo
-2026-05-11,25.1,17.0,0.1,17.4,Tokyo,Asia/Tokyo
-2026-05-12,25.7,16.7,0.0,13.0,Tokyo,Asia/Tokyo
-2026-05-13,27.5,15.6,0.3,13.8,Tokyo,Asia/Tokyo
-2026-05-14,26.6,14.6,0.8,13.0,Tokyo,Asia/Tokyo
-2026-05-15,24.4,13.6,0.0,11.2,Tokyo,Asia/Tokyo
-2026-05-16,27.2,14.4,0.0,13.6,Tokyo,Asia/Tokyo
-2026-05-17,31.1,17.0,0.0,12.1,Tokyo,Asia/Tokyo
-2026-05-18,30.1,17.9,0.0,15.0,Tokyo,Asia/Tokyo
-2026-05-19,29.9,18.2,0.0,16.1,Tokyo,Asia/Tokyo
-2026-05-20,30.9,19.5,0.0,13.6,Tokyo,Asia/Tokyo
-2026-05-21,23.5,15.7,9.5,18.4,Tokyo,Asia/Tokyo
-2026-05-22,17.7,12.4,17.7,16.4,Tokyo,Asia/Tokyo
-2026-05-23,17.4,11.6,0.0,10.1,Tokyo,Asia/Tokyo
-2026-05-24,21.4,13.2,0.1,5.2,Tokyo,Asia/Tokyo
-2026-05-25,25.4,15.7,0.0,7.4,Tokyo,Asia/Tokyo
-2026-05-26,25.7,16.4,0.0,5.8,Tokyo,Asia/Tokyo
-2026-05-27,26.6,17.2,0.0,5.3,Tokyo,Asia/Tokyo
-2026-05-28,24.8,19.2,0.0,6.0,Tokyo,Asia/Tokyo
-2026-05-29,30.4,18.7,0.0,10.6,Tokyo,Asia/Tokyo
-2026-05-30,28.6,18.0,0.0,18.2,Tokyo,Asia/Tokyo
-2026-05-31,30.6,19.3,0.6,12.0,Tokyo,Asia/Tokyo
-2026-06-01,33.0,19.6,0.0,14.6,Tokyo,Asia/Tokyo
-2026-06-02,28.2,20.7,0.0,17.3,Tokyo,Asia/Tokyo
+2026-04-26,,,,,Calgary,America/Edmonton
+2026-04-27,,,,,Calgary,America/Edmonton
+2026-04-28,,,,,Calgary,America/Edmonton
+2026-04-29,,,,,Calgary,America/Edmonton
+2026-04-30,,,,,Calgary,America/Edmonton
+2026-05-01,,,,,Calgary,America/Edmonton
+2026-05-02,,,,,Calgary,America/Edmonton
+2026-05-03,,,,,Calgary,America/Edmonton
+2026-05-04,,,,,Calgary,America/Edmonton
+2026-05-05,,,,,Calgary,America/Edmonton
+2026-05-06,,,,,Calgary,America/Edmonton
+2026-05-07,,,,,Calgary,America/Edmonton
+2026-05-08,,,,,Calgary,America/Edmonton
+2026-05-09,17.6,12.6,,10.7,Calgary,America/Edmonton
+2026-05-10,22.1,8.9,0.0,25.7,Calgary,America/Edmonton
+2026-05-11,15.9,7.9,0.5,26.1,Calgary,America/Edmonton
+2026-05-12,22.2,7.0,0.0,17.9,Calgary,America/Edmonton
+2026-05-13,22.4,12.2,1.5,29.5,Calgary,America/Edmonton
+2026-05-14,18.2,8.9,3.3,41.4,Calgary,America/Edmonton
+2026-05-15,14.2,6.7,0.5,17.1,Calgary,America/Edmonton
+2026-05-16,7.2,3.6,1.2,23.5,Calgary,America/Edmonton
+2026-05-17,9.7,1.1,1.6,24.5,Calgary,America/Edmonton
+2026-05-18,14.3,2.0,1.8,13.2,Calgary,America/Edmonton
+2026-05-19,17.3,4.6,1.9,20.6,Calgary,America/Edmonton
+2026-05-20,12.1,6.0,1.6,25.7,Calgary,America/Edmonton
+2026-05-21,17.4,4.2,0.3,13.7,Calgary,America/Edmonton
+2026-05-22,17.9,7.2,0.0,17.1,Calgary,America/Edmonton
+2026-05-23,23.1,5.7,0.0,28.6,Calgary,America/Edmonton
+2026-05-24,21.9,8.0,0.0,25.4,Calgary,America/Edmonton
+2026-05-25,25.7,6.0,0.0,13.6,Calgary,America/Edmonton
+2026-05-26,26.5,12.9,0.7,28.2,Calgary,America/Edmonton
+2026-05-27,26.2,13.6,4.8,27.7,Calgary,America/Edmonton
+2026-05-28,24.7,14.3,2.8,30.2,Calgary,America/Edmonton
+2026-05-29,29.8,13.8,0.0,17.1,Calgary,America/Edmonton
+2026-05-30,19.6,14.1,0.7,29.9,Calgary,America/Edmonton
+2026-05-31,17.1,9.2,14.6,24.9,Calgary,America/Edmonton
+2026-06-01,17.0,5.4,1.9,18.2,Calgary,America/Edmonton
+2026-04-26,,,,,Edmonton,America/Edmonton
+2026-04-27,,,,,Edmonton,America/Edmonton
+2026-04-28,,,,,Edmonton,America/Edmonton
+2026-04-29,,,,,Edmonton,America/Edmonton
+2026-04-30,,,,,Edmonton,America/Edmonton
+2026-05-01,,,,,Edmonton,America/Edmonton
+2026-05-02,,,,,Edmonton,America/Edmonton
+2026-05-03,,,,,Edmonton,America/Edmonton
+2026-05-04,,,,,Edmonton,America/Edmonton
+2026-05-05,,,,,Edmonton,America/Edmonton
+2026-05-06,17.8,11.9,,11.5,Edmonton,America/Edmonton
+2026-05-07,21.0,9.1,0.6,17.7,Edmonton,America/Edmonton
+2026-05-08,18.0,7.1,0.0,17.2,Edmonton,America/Edmonton
+2026-05-09,19.5,7.2,0.0,13.8,Edmonton,America/Edmonton
+2026-05-10,24.8,10.8,0.0,18.2,Edmonton,America/Edmonton
+2026-05-11,18.8,10.8,0.0,22.5,Edmonton,America/Edmonton
+2026-05-12,22.1,8.6,0.0,11.9,Edmonton,America/Edmonton
+2026-05-13,21.0,10.8,0.2,13.8,Edmonton,America/Edmonton
+2026-05-14,14.9,8.6,4.9,34.1,Edmonton,America/Edmonton
+2026-05-15,13.9,4.0,0.6,19.1,Edmonton,America/Edmonton
+2026-05-16,9.1,0.0,0.0,12.5,Edmonton,America/Edmonton
+2026-05-17,11.6,1.1,1.9,8.0,Edmonton,America/Edmonton
+2026-05-18,15.2,2.3,0.2,11.4,Edmonton,America/Edmonton
+2026-05-19,17.4,4.7,1.7,16.4,Edmonton,America/Edmonton
+2026-05-20,13.2,6.3,3.2,18.9,Edmonton,America/Edmonton
+2026-05-21,19.0,5.2,0.0,10.8,Edmonton,America/Edmonton
+2026-05-22,21.2,9.8,1.0,12.0,Edmonton,America/Edmonton
+2026-05-23,24.6,9.8,0.4,19.3,Edmonton,America/Edmonton
+2026-05-24,20.4,9.4,0.1,27.6,Edmonton,America/Edmonton
+2026-05-25,26.5,11.6,0.0,15.5,Edmonton,America/Edmonton
+2026-05-26,26.6,12.5,0.3,13.6,Edmonton,America/Edmonton
+2026-05-27,26.4,14.1,0.3,10.8,Edmonton,America/Edmonton
+2026-05-28,27.5,15.9,0.2,10.0,Edmonton,America/Edmonton
+2026-05-29,31.6,17.6,0.9,19.6,Edmonton,America/Edmonton
+2026-05-30,21.5,13.1,7.0,20.7,Edmonton,America/Edmonton
+2026-05-31,12.8,10.1,35.9,28.3,Edmonton,America/Edmonton
+2026-06-01,17.8,8.4,0.0,25.6,Edmonton,America/Edmonton
+2026-04-26,,,,,Montreal,America/Toronto
+2026-04-27,,,,,Montreal,America/Toronto
+2026-04-28,,,,,Montreal,America/Toronto
+2026-04-29,,,,,Montreal,America/Toronto
+2026-04-30,,,,,Montreal,America/Toronto
+2026-05-01,,,,,Montreal,America/Toronto
+2026-05-02,,,,,Montreal,America/Toronto
+2026-05-03,,,,,Montreal,America/Toronto
+2026-05-04,,,,,Montreal,America/Toronto
+2026-05-05,,,,,Montreal,America/Toronto
+2026-05-06,,,,,Montreal,America/Toronto
+2026-05-07,,,,,Montreal,America/Toronto
+2026-05-08,,,,,Montreal,America/Toronto
+2026-05-09,15.9,8.4,,26.7,Montreal,America/Toronto
+2026-05-10,14.3,8.0,3.8,24.5,Montreal,America/Toronto
+2026-05-11,11.4,5.0,1.3,12.6,Montreal,America/Toronto
+2026-05-12,12.4,3.5,0.0,14.0,Montreal,America/Toronto
+2026-05-13,8.9,5.9,10.4,15.3,Montreal,America/Toronto
+2026-05-14,10.5,7.0,9.2,14.5,Montreal,America/Toronto
+2026-05-15,18.0,8.2,3.4,18.3,Montreal,America/Toronto
+2026-05-16,22.1,9.2,0.3,23.3,Montreal,America/Toronto
+2026-05-17,21.7,13.0,0.2,20.9,Montreal,America/Toronto
+2026-05-18,18.6,8.8,3.0,15.7,Montreal,America/Toronto
+2026-05-19,26.1,16.3,2.5,20.9,Montreal,America/Toronto
+2026-05-20,21.6,12.4,1.5,27.9,Montreal,America/Toronto
+2026-05-21,14.8,5.3,0.0,17.0,Montreal,America/Toronto
+2026-05-22,18.1,6.4,0.0,14.9,Montreal,America/Toronto
+2026-05-23,20.9,8.2,0.0,9.4,Montreal,America/Toronto
+2026-05-24,14.5,10.8,2.3,21.4,Montreal,America/Toronto
+2026-05-25,19.9,11.3,13.6,13.8,Montreal,America/Toronto
+2026-05-26,28.8,13.3,0.0,30.9,Montreal,America/Toronto
+2026-05-27,21.1,13.7,0.0,19.1,Montreal,America/Toronto
+2026-05-28,18.5,10.9,0.55,18.1,Montreal,America/Toronto
+2026-05-29,12.8,6.4,17.7,36.4,Montreal,America/Toronto
+2026-05-30,17.1,6.0,0.6,19.7,Montreal,America/Toronto
+2026-05-31,17.5,9.5,2.7,14.1,Montreal,America/Toronto
+2026-06-01,21.1,9.7,0.0,7.3,Montreal,America/Toronto
+2026-04-26,,,,,Ottawa,America/Toronto
+2026-04-27,,,,,Ottawa,America/Toronto
+2026-04-28,,,,,Ottawa,America/Toronto
+2026-04-29,,,,,Ottawa,America/Toronto
+2026-04-30,,,,,Ottawa,America/Toronto
+2026-05-01,,,,,Ottawa,America/Toronto
+2026-05-02,,,,,Ottawa,America/Toronto
+2026-05-03,,,,,Ottawa,America/Toronto
+2026-05-04,,,,,Ottawa,America/Toronto
+2026-05-05,,,,,Ottawa,America/Toronto
+2026-05-06,,,,,Ottawa,America/Toronto
+2026-05-07,,,,,Ottawa,America/Toronto
+2026-05-08,,,,,Ottawa,America/Toronto
+2026-05-09,17.0,11.2,,21.2,Ottawa,America/Toronto
+2026-05-10,12.0,4.7,1.2,22.2,Ottawa,America/Toronto
+2026-05-11,11.7,1.7,1.9,16.1,Ottawa,America/Toronto
+2026-05-12,12.6,1.1,0.0,11.2,Ottawa,America/Toronto
+2026-05-13,9.1,4.8,16.1,20.9,Ottawa,America/Toronto
+2026-05-14,13.4,6.5,0.2,12.3,Ottawa,America/Toronto
+2026-05-15,18.6,5.8,0.6,13.5,Ottawa,America/Toronto
+2026-05-16,22.3,7.4,0.4,23.9,Ottawa,America/Toronto
+2026-05-17,22.0,11.1,0.0,17.2,Ottawa,America/Toronto
+2026-05-18,27.5,8.3,4.5,26.4,Ottawa,America/Toronto
+2026-05-19,27.7,18.7,8.7,21.3,Ottawa,America/Toronto
+2026-05-20,20.2,9.8,0.5,24.7,Ottawa,America/Toronto
+2026-05-21,13.8,3.6,0.0,19.8,Ottawa,America/Toronto
+2026-05-22,19.2,4.2,0.0,7.4,Ottawa,America/Toronto
+2026-05-23,19.8,7.7,0.0,17.8,Ottawa,America/Toronto
+2026-05-24,13.3,10.6,5.2,16.2,Ottawa,America/Toronto
+2026-05-25,21.3,12.3,2.3,16.9,Ottawa,America/Toronto
+2026-05-26,30.5,11.9,0.0,28.2,Ottawa,America/Toronto
+2026-05-27,21.3,11.7,0.0,21.1,Ottawa,America/Toronto
+2026-05-28,17.5,9.1,0.0,19.4,Ottawa,America/Toronto
+2026-05-29,14.0,7.4,2.9,32.6,Ottawa,America/Toronto
+2026-05-30,19.0,5.4,0.0,17.1,Ottawa,America/Toronto
+2026-05-31,18.0,9.2,0.5,11.2,Ottawa,America/Toronto
+2026-06-01,21.9,8.7,0.0,13.3,Ottawa,America/Toronto
+2026-04-26,,,,,Quebec City,America/Toronto
+2026-04-27,,,,,Quebec City,America/Toronto
+2026-04-28,,,,,Quebec City,America/Toronto
+2026-04-29,,,,,Quebec City,America/Toronto
+2026-04-30,,,,,Quebec City,America/Toronto
+2026-05-01,,,,,Quebec City,America/Toronto
+2026-05-02,,,,,Quebec City,America/Toronto
+2026-05-03,,,,,Quebec City,America/Toronto
+2026-05-04,,,,,Quebec City,America/Toronto
+2026-05-05,,,,,Quebec City,America/Toronto
+2026-05-06,,,,,Quebec City,America/Toronto
+2026-05-07,,,,,Quebec City,America/Toronto
+2026-05-08,,,,,Quebec City,America/Toronto
+2026-05-09,16.6,8.5,,16.4,Quebec City,America/Toronto
+2026-05-10,16.2,7.3,3.3,26.7,Quebec City,America/Toronto
+2026-05-11,11.6,3.1,0.2,16.0,Quebec City,America/Toronto
+2026-05-12,12.0,1.9,0.0,14.7,Quebec City,America/Toronto
+2026-05-13,14.4,2.4,0.5,15.1,Quebec City,America/Toronto
+2026-05-14,8.8,7.0,12.7,20.0,Quebec City,America/Toronto
+2026-05-15,18.1,6.6,0.0,20.3,Quebec City,America/Toronto
+2026-05-16,20.5,9.7,0.0,22.4,Quebec City,America/Toronto
+2026-05-17,16.8,10.2,0.4,23.6,Quebec City,America/Toronto
+2026-05-18,11.3,6.8,5.7,12.5,Quebec City,America/Toronto
+2026-05-19,12.4,8.0,11.9,17.1,Quebec City,America/Toronto
+2026-05-20,21.1,8.1,6.2,26.6,Quebec City,America/Toronto
+2026-05-21,13.1,3.0,0.0,16.6,Quebec City,America/Toronto
+2026-05-22,18.4,2.5,0.0,16.2,Quebec City,America/Toronto
+2026-05-23,18.4,4.1,0.0,16.0,Quebec City,America/Toronto
+2026-05-24,22.9,6.7,0.0,21.0,Quebec City,America/Toronto
+2026-05-25,14.9,9.9,10.1,14.5,Quebec City,America/Toronto
+2026-05-26,23.4,10.4,4.9,15.5,Quebec City,America/Toronto
+2026-05-27,17.4,9.2,0.0,17.2,Quebec City,America/Toronto
+2026-05-28,8.7,6.6,1.2,22.9,Quebec City,America/Toronto
+2026-05-29,9.3,6.6,0.1,27.3,Quebec City,America/Toronto
+2026-05-30,15.9,5.9,0.0,17.3,Quebec City,America/Toronto
+2026-05-31,18.5,7.1,0.0,10.0,Quebec City,America/Toronto
+2026-06-01,21.4,7.9,0.0,11.8,Quebec City,America/Toronto
+2026-04-26,,,,,Toronto,America/Toronto
+2026-04-27,,,,,Toronto,America/Toronto
+2026-04-28,,,,,Toronto,America/Toronto
+2026-04-29,,,,,Toronto,America/Toronto
+2026-04-30,,,,,Toronto,America/Toronto
+2026-05-01,,,,,Toronto,America/Toronto
+2026-05-02,,,,,Toronto,America/Toronto
+2026-05-03,,,,,Toronto,America/Toronto
+2026-05-04,,,,,Toronto,America/Toronto
+2026-05-05,,,,,Toronto,America/Toronto
+2026-05-06,,,,,Toronto,America/Toronto
+2026-05-07,,,,,Toronto,America/Toronto
+2026-05-08,,,,,Toronto,America/Toronto
+2026-05-09,14.7,9.7,,25.4,Toronto,America/Toronto
+2026-05-10,13.6,5.1,0.0,23.5,Toronto,America/Toronto
+2026-05-11,12.9,5.1,0.3,16.6,Toronto,America/Toronto
+2026-05-12,11.1,3.7,1.1,21.2,Toronto,America/Toronto
+2026-05-13,13.9,6.2,11.4,26.4,Toronto,America/Toronto
+2026-05-14,8.8,5.8,2.0,18.4,Toronto,America/Toronto
+2026-05-15,17.2,7.2,0.0,14.9,Toronto,America/Toronto
+2026-05-16,18.4,8.7,1.2,22.9,Toronto,America/Toronto
+2026-05-17,22.3,12.7,1.0,12.4,Toronto,America/Toronto
+2026-05-18,24.9,13.0,2.5,22.9,Toronto,America/Toronto
+2026-05-19,25.2,15.4,7.3,27.1,Toronto,America/Toronto
+2026-05-20,20.1,10.6,0.0,21.6,Toronto,America/Toronto
+2026-05-21,12.6,7.7,0.0,16.2,Toronto,America/Toronto
+2026-05-22,13.2,7.8,0.0,23.3,Toronto,America/Toronto
+2026-05-23,12.2,7.8,27.2,32.6,Toronto,America/Toronto
+2026-05-24,12.3,8.1,0.7,25.1,Toronto,America/Toronto
+2026-05-25,19.1,10.9,0.0,15.7,Toronto,America/Toronto
+2026-05-26,24.0,10.2,0.0,20.9,Toronto,America/Toronto
+2026-05-27,24.0,13.5,0.0,18.7,Toronto,America/Toronto
+2026-05-28,19.9,12.0,0.0,17.7,Toronto,America/Toronto
+2026-05-29,21.5,11.3,0.6,26.7,Toronto,America/Toronto
+2026-05-30,16.3,8.9,0.0,16.9,Toronto,America/Toronto
+2026-05-31,19.6,10.5,0.0,13.8,Toronto,America/Toronto
+2026-06-01,18.8,12.3,0.0,15.1,Toronto,America/Toronto
+2026-04-26,,,,,Vancouver,America/Vancouver
+2026-04-27,,,,,Vancouver,America/Vancouver
+2026-04-28,,,,,Vancouver,America/Vancouver
+2026-04-29,,,,,Vancouver,America/Vancouver
+2026-04-30,,,,,Vancouver,America/Vancouver
+2026-05-01,,,,,Vancouver,America/Vancouver
+2026-05-02,,,,,Vancouver,America/Vancouver
+2026-05-03,,,,,Vancouver,America/Vancouver
+2026-05-04,,,,,Vancouver,America/Vancouver
+2026-05-05,,,,,Vancouver,America/Vancouver
+2026-05-06,,,,,Vancouver,America/Vancouver
+2026-05-07,,,,,Vancouver,America/Vancouver
+2026-05-08,,,,,Vancouver,America/Vancouver
+2026-05-09,16.9,14.6,,12.3,Vancouver,America/Vancouver
+2026-05-10,17.9,12.1,0.0,15.8,Vancouver,America/Vancouver
+2026-05-11,17.8,10.7,0.0,15.7,Vancouver,America/Vancouver
+2026-05-12,22.3,13.1,0.0,11.0,Vancouver,America/Vancouver
+2026-05-13,17.8,12.2,1.3,20.6,Vancouver,America/Vancouver
+2026-05-14,15.8,9.8,3.3,19.8,Vancouver,America/Vancouver
+2026-05-15,10.9,7.8,18.3,17.7,Vancouver,America/Vancouver
+2026-05-16,13.7,6.8,2.3,23.8,Vancouver,America/Vancouver
+2026-05-17,15.0,7.5,0.0,11.7,Vancouver,America/Vancouver
+2026-05-18,16.1,10.2,0.0,12.7,Vancouver,America/Vancouver
+2026-05-19,15.5,11.6,0.2,11.8,Vancouver,America/Vancouver
+2026-05-20,16.8,11.2,0.0,13.7,Vancouver,America/Vancouver
+2026-05-21,19.3,11.0,0.0,13.0,Vancouver,America/Vancouver
+2026-05-22,22.2,12.7,0.0,10.6,Vancouver,America/Vancouver
+2026-05-23,20.7,12.3,0.0,10.4,Vancouver,America/Vancouver
+2026-05-24,20.4,10.1,0.0,10.0,Vancouver,America/Vancouver
+2026-05-25,15.4,10.8,5.9,20.2,Vancouver,America/Vancouver
+2026-05-26,15.9,10.4,3.6,9.2,Vancouver,America/Vancouver
+2026-05-27,20.7,11.0,0.0,23.7,Vancouver,America/Vancouver
+2026-05-28,20.2,14.1,0.0,16.1,Vancouver,America/Vancouver
+2026-05-29,18.0,11.4,0.2,20.5,Vancouver,America/Vancouver
+2026-05-30,14.9,8.9,0.0,14.9,Vancouver,America/Vancouver
+2026-05-31,15.2,8.8,0.0,17.0,Vancouver,America/Vancouver
+2026-06-01,16.5,10.7,0.0,16.8,Vancouver,America/Vancouver
+2026-04-26,,,,,Winnipeg,America/Winnipeg
+2026-04-27,,,,,Winnipeg,America/Winnipeg
+2026-04-28,,,,,Winnipeg,America/Winnipeg
+2026-04-29,,,,,Winnipeg,America/Winnipeg
+2026-04-30,,,,,Winnipeg,America/Winnipeg
+2026-05-01,,,,,Winnipeg,America/Winnipeg
+2026-05-02,,,,,Winnipeg,America/Winnipeg
+2026-05-03,,,,,Winnipeg,America/Winnipeg
+2026-05-04,,,,,Winnipeg,America/Winnipeg
+2026-05-05,,,,,Winnipeg,America/Winnipeg
+2026-05-06,,,,,Winnipeg,America/Winnipeg
+2026-05-07,,,,,Winnipeg,America/Winnipeg
+2026-05-08,,,,,Winnipeg,America/Winnipeg
+2026-05-09,8.6,3.0,,25.0,Winnipeg,America/Winnipeg
+2026-05-10,10.4,-1.5,0.0,14.2,Winnipeg,America/Winnipeg
+2026-05-11,16.5,2.2,0.0,27.5,Winnipeg,America/Winnipeg
+2026-05-12,18.1,7.1,0.2,28.7,Winnipeg,America/Winnipeg
+2026-05-13,23.9,8.2,0.0,19.3,Winnipeg,America/Winnipeg
+2026-05-14,26.2,13.6,0.1,36.1,Winnipeg,America/Winnipeg
+2026-05-15,17.9,10.1,0.0,36.7,Winnipeg,America/Winnipeg
+2026-05-16,9.6,2.8,0.0,19.5,Winnipeg,America/Winnipeg
+2026-05-17,11.4,1.9,12.8,21.0,Winnipeg,America/Winnipeg
+2026-05-18,5.2,2.8,5.6,20.3,Winnipeg,America/Winnipeg
+2026-05-19,7.6,2.5,0.1,17.7,Winnipeg,America/Winnipeg
+2026-05-20,17.5,1.9,0.1,20.1,Winnipeg,America/Winnipeg
+2026-05-21,20.1,10.4,0.2,24.4,Winnipeg,America/Winnipeg
+2026-05-22,20.2,10.4,0.0,22.3,Winnipeg,America/Winnipeg
+2026-05-23,11.4,8.3,4.0,17.1,Winnipeg,America/Winnipeg
+2026-05-24,25.6,7.0,0.0,9.8,Winnipeg,America/Winnipeg
+2026-05-25,26.6,15.1,0.0,17.8,Winnipeg,America/Winnipeg
+2026-05-26,29.0,10.4,0.0,20.5,Winnipeg,America/Winnipeg
+2026-05-27,27.2,14.6,0.0,18.8,Winnipeg,America/Winnipeg
+2026-05-28,30.6,15.7,0.0,21.4,Winnipeg,America/Winnipeg
+2026-05-29,33.0,20.1,0.0,16.4,Winnipeg,America/Winnipeg
+2026-05-30,32.2,20.4,0.1,23.4,Winnipeg,America/Winnipeg
+2026-05-31,31.0,19.5,0.0,15.2,Winnipeg,America/Winnipeg
+2026-06-01,31.1,21.5,0.0,23.1,Winnipeg,America/Winnipeg
