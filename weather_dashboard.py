@@ -34,11 +34,14 @@ class City:
 
 
 CITIES: tuple[City, ...] = (
-    City("New York", 40.7128, -74.0060, "America/New_York"),
-    City("London", 51.5072, -0.1276, "Europe/London"),
-    City("Tokyo", 35.6764, 139.6500, "Asia/Tokyo"),
-    City("Sydney", -33.8688, 151.2093, "Australia/Sydney"),
-    City("Delhi", 28.6139, 77.2090, "Asia/Kolkata"),
+    City("Toronto", 43.6532, -79.3832, "America/Toronto"),
+    City("Montreal", 45.5017, -73.5673, "America/Toronto"),
+    City("Vancouver", 49.2827, -123.1207, "America/Vancouver"),
+    City("Calgary", 51.0447, -114.0719, "America/Edmonton"),
+    City("Edmonton", 53.5461, -113.4938, "America/Edmonton"),
+    City("Ottawa", 45.4215, -75.6972, "America/Toronto"),
+    City("Winnipeg", 49.8951, -97.1384, "America/Winnipeg"),
+    City("Quebec City", 46.8139, -71.2080, "America/Toronto"),
 )
 
 
