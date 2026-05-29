@@ -1,17 +1,17 @@
 scraped_at_utc,city,timezone,temp_c,humidity_pct,precip_mm,wind_kmh,weather_code
 2026-05-27T01:59:01Z,Calgary,America/Edmonton,22.9,38,0.0,26.6,3
-2026-05-29T21:48:08Z,Calgary,America/Edmonton,26.5,23,0.0,29.3,0
+2026-05-29T23:06:52Z,Calgary,America/Edmonton,26.5,25,0.0,26.1,0
 2026-05-27T01:59:01Z,Edmonton,America/Edmonton,26.3,37,0.0,13.3,0
-2026-05-29T21:48:08Z,Edmonton,America/Edmonton,27.7,39,0.0,11.8,3
+2026-05-29T23:06:52Z,Edmonton,America/Edmonton,29.6,31,0.0,15.1,3
 2026-05-27T01:59:01Z,Montreal,America/Toronto,21.5,44,0.0,24.0,0
-2026-05-29T21:48:08Z,Montreal,America/Toronto,13.8,90,1.4,7.3,63
+2026-05-29T23:06:52Z,Montreal,America/Toronto,12.9,90,0.0,3.5,3
 2026-05-27T01:59:01Z,Ottawa,America/Toronto,22.6,41,0.0,21.0,0
-2026-05-29T21:48:08Z,Ottawa,America/Toronto,15.6,42,0.0,36.6,1
+2026-05-29T23:06:52Z,Ottawa,America/Toronto,12.7,50,0.0,29.9,0
 2026-05-27T01:59:01Z,Quebec City,America/Toronto,16.5,93,0.0,9.7,1
-2026-05-29T21:48:08Z,Quebec City,America/Toronto,10.1,78,0.0,30.4,3
+2026-05-29T23:06:52Z,Quebec City,America/Toronto,9.3,75,0.0,27.8,3
 2026-05-27T01:59:01Z,Toronto,America/Toronto,16.8,76,0.0,12.7,3
-2026-05-29T21:48:08Z,Toronto,America/Toronto,25.4,24,0.0,29.1,0
+2026-05-29T23:06:52Z,Toronto,America/Toronto,24.0,28,0.0,26.1,0
 2026-05-27T01:59:01Z,Vancouver,America/Vancouver,15.8,67,0.0,6.3,0
-2026-05-29T21:48:08Z,Vancouver,America/Vancouver,16.8,53,0.0,13.0,0
+2026-05-29T23:06:52Z,Vancouver,America/Vancouver,17.3,52,0.0,12.7,0
 2026-05-27T01:59:01Z,Winnipeg,America/Winnipeg,23.5,36,0.0,16.1,0
-2026-05-29T21:48:08Z,Winnipeg,America/Winnipeg,32.0,31,0.0,13.5,1
+2026-05-29T23:06:52Z,Winnipeg,America/Winnipeg,33.7,22,0.0,16.8,3
